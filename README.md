@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hey! I am Pratyush, nice to meet you! 👋
 
-<!--
-**empratyush/empratyush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is the place where I say thanks when someone correct me 🤓
+- 🔭 I’m currently working on Core Android Apps
+- 🌱 I’m currently learning [MAD Skills](https://developer.android.com/series/mad-skills) 😁
+- 👯 I’m looking to collaborate on Open Sources Core Android App
+- ⚡ Fun fact: I ♥ 💻 🐧
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### How to reach me 📫 
+
+🌎 [Site](http://pratyush.dev/) <br/>
+🤖 [Twitter](https://twitter.com/empratyush) <br/>
