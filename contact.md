@@ -1,3 +1,3 @@
 - Signal : [+1 213 600 4050](https://signal.me/#p/+12136004050) (Preferred) <br/>
-- Email : pr@tyu.sh
+- Email : pr@tyu.sh - [GPG](empratyush.0.asc)
 - Telegram : [@empratyush](https://t.me/empratyush) (Rarely Active)<br/>
